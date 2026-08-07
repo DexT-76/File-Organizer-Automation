@@ -1,6 +1,6 @@
-# Automated File Organizer
+# Automated File Organizer (For disk E)
 
-A lightweight Python OS automation script designed to clean up and structure chaotic directory folders by automatically categorizing and moving files based on their extension types.
+A lightweight Python OS automation script designed to clean up and structure chaotic directory folders by automatically categorizing and moving files based on their extension types and this only works if you have an E drive; I'll update it to work on any drive if this gets a good response.
 
 ---
 
@@ -37,7 +37,7 @@ Ensure the category subfolders (APP, File, Foto, Video) exist inside your target
 
 2. Run the Script:
 
-```Bash
+```bash
 
 python organizer_otomatis.py
 
