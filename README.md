@@ -37,7 +37,8 @@ The script organizes files into five primary categories:
 
 1. Run the Script:
 
-```Bash
+```
+Bash
 python organizer_otomatis.py
 ```
 
